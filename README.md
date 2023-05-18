@@ -1,6 +1,6 @@
 # Myntra Clone
 
-Clone of the Myntra website as a light HTML and CSS - [Take a look](https://bankole2000.github.io/netflix)
+Clone of the Myntra website as a light HTML and CSS - [Take a look](https://github.com/Shubham070msd/Myntra-Clone)
 
 _<p align="center">"Eating website for fun... nyom nyom nyom"</p>_
 
