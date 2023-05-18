@@ -22,4 +22,5 @@ Contributions are highly welcome. Feel free to fork, clone, make pull requests, 
 
 ## Acknowledgments
 
-- Many thanks to [@CodeWithHarry] For making a video on youtube which helped me make this clone.
+- Many thanks to [@CodeWithHarry](https://github.com/CodeWithHarry)
+ For making a video on youtube which helped me make this clone.
